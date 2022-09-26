@@ -1,1 +1,2 @@
-## Here are the instructions. 
+## Instructions for FEMNIST. 
+1) Download and unzip the 
